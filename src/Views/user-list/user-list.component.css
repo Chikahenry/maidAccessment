@@ -1,0 +1,25 @@
+.user-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+  }
+  
+  .user-card {
+    width: 150px;
+    border: 1px solid #ccc;
+    padding: 16px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+  }
+  
+  .pagination button {
+    margin: 0 4px;
+  }
+  

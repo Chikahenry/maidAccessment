@@ -1,0 +1,15 @@
+.user-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .user-detail img {
+    border-radius: 50%;
+  }
+  
+  .user-detail button {
+    margin-top: 16px;
+  }
+  
